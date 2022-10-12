@@ -11,5 +11,5 @@ anywaysszzz, have a good day and stuff.
 <3
 ```
 
-[1]: https://git.sr.ht/~j3s
-[2]: https://git.j3s.sh
+1: https://git.sr.ht/~j3s
+2: https://git.j3s.sh
