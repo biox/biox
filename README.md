@@ -1,13 +1,19 @@
 ```
-i'm better known as j3s, but i got this cool 4-char github profile name and i'm keeping it :3
+hai i'm j3s (biox is a historical name)
 
-most of my repos are on my personal site[1], the cyberia git server[2] or sourcehut[3]
+existential, kind, anxious, mentor
+asexual, tea drinker, sweet tooth
+empathic creature living in a van
+reductionist
+former drug abuser & self harmer
+loves poetry and horror films
+loves walking, cats, sushi, crepes, & friends
+loves smiling & listening & warm sunny walks
 
-some of my more "public" stuff is kept here, simply bc github
-is an octopus-cat of significant size. it's almost impossible to escape
-its tentacles.
-
-anywaysszzz, have a good day and stuff.
+find my repos on:
+                 my website[1],
+                 cyberia's git server[2],
+                 sourcehut[3]
 
 <3
 ```
