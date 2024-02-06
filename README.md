@@ -2,7 +2,7 @@
 hai i'm j3s (biox is a historical name)
 
 existential, kind, anxious, mentor
-asexual, tea drinker, sweet tooth
+tea drinker, sweet tooth
 empathic creature living in a van
 reductionist
 former drug abuser & self harmer
