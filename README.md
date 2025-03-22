@@ -13,8 +13,7 @@ loves smiling & listening & warm sunny walks
 find my repos on:
                  my website[1],
                  cyberia's git server[2],
-                 sourcehut[3],
-                 tangled[4]
+                 tangled[3]
 
 <3
 ```
@@ -22,7 +21,5 @@ find my repos on:
 1: https://git.j3s.sh
 
 2: https://git.cyberia.club/j3s?tab=activity
-
-3: https://git.sr.ht/~j3s
 
 4: https://tangled.sh/@j3s.sh
